@@ -27,6 +27,11 @@ header {
 	margin: 15px;
 }
 
+#subtext {
+	color: gray;
+	font-size: 25px;
+}
+
 .logo {
 	curser: pointer;
 	color: white;
