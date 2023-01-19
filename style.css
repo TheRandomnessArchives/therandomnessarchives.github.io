@@ -2,10 +2,14 @@
 	box-sizing: border-box;
 	margin: 0;
 	padding: 0;
-	background-color: #24252A;
+	background-color: #24252A; 
 	color: white;
 }
 
+
+body {
+	/*background-image: url("images/Beetlejuice-Zoom3.jpg");*/
+}
 li, a, button {
 	color: #edf0f1;
 	text-decoration: none;
@@ -44,13 +48,13 @@ header {
 }
 
 .nav_links li a:hover {
-	color: #0088a9;
+	color: #E400FF;
 }
 
 button {
 	margin-left: 20px;
 	padding: 9px 25px;
-	background-color: rgba(0,136,169,1);
+	background-color: rgba(228,0,255,1);
 	border: none;
 	border-radius: 50px;
 	curser: pointer;
@@ -58,7 +62,7 @@ button {
 }
 
 button:hover {
-		background-color: rgba(0,136,169,0.8);
+		background-color: rgba(228,0,255,0.5);
 }
 
 #content {
