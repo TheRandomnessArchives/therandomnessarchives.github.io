@@ -23,9 +23,14 @@ body {
     border: 0px;
     padding: 5px;
     color: white;
+    font-family: "Times New Roman", Times, serif;
 }
 
 .btn:hover {
     background-color: #4054B5;
     cursor: pointer;
+}
+
+.headerimg {
+    margin: -15px;
 }
