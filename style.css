@@ -1,5 +1,6 @@
 body {
     margin: 0;
+    text-decoration: none;
 }
 
 .global_header {
@@ -9,4 +10,22 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+.button_row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: linear-gradient(#253792, #1C2864)
+}
+
+.btn {
+    background-color: transparent;
+    border: 0px;
+    padding: 5px;
+    color: white;
+}
+
+.btn:hover {
+    background-color: #4054B5;
+    cursor: pointer;
 }

@@ -1,6 +1,0 @@
-Hello world
-it is me, text document
-This specific text document is titled
-DFGHFD
-.txt
-i'm just that cool
