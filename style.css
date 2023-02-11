@@ -15,7 +15,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: linear-gradient(#253792, #1C2864);
+    background-image: linear-gradient(#253792, #131d4d);
 }
 
 .btn {
